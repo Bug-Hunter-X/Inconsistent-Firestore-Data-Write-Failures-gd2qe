@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an unusual issue where data wasn't being written to the Firestore database despite seemingly correct code. The write operation would return a successful promise, yet the data wouldn't appear in the database. This happened inconsistently, sometimes working and sometimes failing without any apparent pattern or error messages.
